@@ -1,4 +1,4 @@
-1. Open the project in your browser at [`(https://basic-counter-app-vzlf.onrender.com)`](https://basic-counter-app-vzlf.onrender.com) to view your project.
+1. Open the project in your browser at [`(https://basic-counter-app-vzlf.onrender.com)`](https://basic-counter-app-vzlf.onrender.com) to view my project.
 
 ## Contributing
 
